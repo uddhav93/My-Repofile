@@ -1,0 +1,2 @@
+# javascript
+bsics of javascript
